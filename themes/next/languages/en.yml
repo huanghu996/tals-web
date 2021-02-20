@@ -49,23 +49,23 @@ counter:
     one: 目前共计 1 个分类
     other: "目前共计 %d 个分类"
   archive_posts:
-    zero: 暂无日志。
-    one: 目前共计 1 篇日志。
-    other: "目前共计 %d 篇日志。"
+    zero: 暂无动态。
+    one: 目前共计 1 篇动态。
+    other: "迄今已经发表了 %d 篇动态。"
 state:
-  posts: 日志
+  posts: 动态
   tags: 标签
   categories: 分类
 search:
   placeholder: 搜索...
 cheers:
-  um: 嗯..
-  ok: 还行
-  nice: 不错
-  good: 很好
-  great: 非常好
-  excellent: 太棒了
-keep_on: 继续努力。
+  um: Hello！
+  ok: 又是新鲜的一天
+  nice: 又是新鲜的一天
+  good: 又是新鲜的一天
+  great: 又是新鲜的一天
+  excellent: 又是新鲜的一天
+keep_on: 又是新鲜的一天
 symbol:
   comma: "，"
   period: "。"
