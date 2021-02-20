@@ -1,0 +1,104 @@
+<scroll-view class="major" scroll-x>
+	<view class="majorCon">
+	  <navigator class="box" url="">
+		<image class="pic" src="image/kecheng1.png"></image>
+		<view class="txt">球队LOGO</view>
+	  </navigator>
+	  <navigator class="box" url="">
+		<image class="pic" src="image/kecheng2.png"></image>
+		<view class="txt">总冠军竞猜</view>
+	  </navigator>
+	  <navigator class="box" url="">
+		<image class="pic" src="image/kecheng3.png"></image>
+		<view class="txt">打CALL专区</view>
+	  </navigator>
+	  <navigator class="box" url="">
+		<image class="pic" src="image/kecheng4.png"></image>
+		<view class="txt">参与超话</view>
+	  </navigator>
+	  <navigator class="box" url="">
+		<image class="pic" src="image/kecheng5.png"></image>
+		<view class="txt">活动策划类</view>
+	  </navigator>
+	</view>
+  </scroll-view>
+  <style>
+.major{
+}
+.majorCon{
+  display: flex;
+  padding:20px 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.major .box{
+  text-align: center;
+  width: 70px;
+  display:inline-block;
+  /* padding:0 26px; */
+}
+.major .box .pic{
+  width: 50px;
+  height: 50px;
+}
+.major .txt{
+  font-size:10px;
+}
+
+.activities .pubTitle{
+  padding: 25px 25px;
+  justify-content: space-between;
+  display: flex;
+}
+.activities .pubTitle .outtxt{
+  display: flex;
+}
+.activities .pubTitle .sk{
+  width: 10px;
+  height: 100%;
+  background-color: brown;
+}
+.activities .pubTitle .txt{
+  font-size:35px;
+  padding:0 10px;
+}
+
+.actMain{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px 30px;
+}
+.actMain .box{
+  width: 340px;
+  height: 210px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.actMain .line{
+  width: 50px;
+  height: 2px;
+  background-color: aliceblue;
+  margin: 5px 5px;
+}
+.actMain .ceng{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.6);
+  position: absolute;
+  left: 0;
+  top:0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+.ceng .moto{
+  opacity: 0.5;
+}
+.actMain .pic{
+  width: 100%;
+  height: 100%;
+}
+  </style>
