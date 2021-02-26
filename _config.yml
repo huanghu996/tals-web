@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 土安篮神
+title: 行止杯
 subtitle: '土安篮神的官网'
 description: ''
 keywords:
@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://huanghu996.github.io/
-root: / #tals-web/
+url: http://www.xingzhibei.online/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,6 +104,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 
 deploy:
-  type: git
-  repository: git@github.com:huanghu996/tals-web.git
-  branch: web
+  - type: git
+    repository: git@github.com:huanghu996/tals-web.git
+    branch: web
+

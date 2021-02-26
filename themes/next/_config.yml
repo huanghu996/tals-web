@@ -1001,27 +1001,11 @@ carousel:
    enable: true
    item: [
       {
-        'link':'/messageboard/',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/my-blog.png'
+        'link':'/',
+        'img':'image/banner1.jpg'
       },
       {
-        'link':'https://github.com/996icu/996.ICU',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/996.png'
-      },
-      {
-        'link':'/tags/JVM/',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/JVM.png'
-      },
-      {
-        'link':'/posts/258aee07.html',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%A4%9A%E7%BA%BF%E7%A8%8B.png'
-      },
-      {
-        'link':'/tags/博客/',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/hexo.png'
-      },
-      {
-        'link':'https://promotion.aliyun.com/ntms/act/campus2018.html',
-        'img':'https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/%E8%BD%AE%E6%92%AD%E5%9B%BE/19010107.jpg'
+        'link':'/',
+        'img':'image/banner1.jpg'
       },
    ]
