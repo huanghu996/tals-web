@@ -44,7 +44,7 @@
 
 {%- if theme.footer.powered %}
   <div class="powered-by">
-     土安篮神使用hexo生成静态页面，并采用了next主题
+     行止杯门户感谢hexo生成静态页面与next主题
   </div>
 {%- endif %}
 
